@@ -121,6 +121,14 @@ export const Contact = (props) => {
                 {props.data ? props.data.email : 'loading'}
               </p>
             </div>
+            <div className='contact-item'>
+              <p>
+                <span>
+                  <i className='fa fa-check-square'></i> DRE#
+                </span>{' '}
+                {props.data ? props.data.dreNumber : 'loading'}
+              </p>
+            </div>
           </div>
           <div className='col-md-12'>
             <div className='row'>
@@ -132,8 +140,8 @@ export const Contact = (props) => {
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.twitter : '/'}>
-                      <i className='fa fa-twitter'></i>
+                    <a href={"instagram.com/pennyxurealty"}>
+                      <i className='fa fa-instagram'></i>
                     </a>
                   </li>
                   <li>
@@ -150,10 +158,7 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2020 Issaaf Kattan React Land Page Template. Design by{' '}
-            <a href='http://www.templatewire.com' rel='nofollow'>
-              TemplateWire
-            </a>
+            &copy; 2021 Penny Xu All rights reserved.
           </p>
         </div>
       </div>

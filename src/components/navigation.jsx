@@ -1,7 +1,7 @@
 export const Navigation = (props) => {
   return (
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
-      <div className='container'>
+      <div className='container' style={{marginright:70}}>
         <div className='navbar-header'>
           <button
             type='button'
@@ -15,16 +15,17 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
-          <a className='navbar-brand page-scroll' href='#page-top'>
-            React Landing Page
-          </a>{' '}
+          {/* <a className='navbar-brand page-scroll' href='#page-top'>
+            Penny Xu 
+          </a>{' '} */}
         </div>
 
         <div
           className='collapse navbar-collapse'
           id='bs-example-navbar-collapse-1'
+          style={{marginLeft:70}}
         >
-          <ul className='nav navbar-nav navbar-right'>
+          <ul className='nav navbar-nav navbar-right' style={{marginLeft:70}}>
             <li>
               <a href='#features' className='page-scroll'>
                 Features
@@ -59,6 +60,16 @@ export const Navigation = (props) => {
               <a href='#contact' className='page-scroll'>
                 Contact
               </a>
+            </li>
+            <li style={{marginBottom:0}}>
+              <div style={{marginTop:16}}>
+              <a style={{border: '2px solid black', padding: "11.4px 12px"}}>
+              <span>
+                  <i className='fa fa-phone'></i> 
+                </span>{' '}
+                122.121.111
+              </a>
+              </div>
             </li>
           </ul>
         </div>

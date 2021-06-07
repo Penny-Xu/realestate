@@ -1,8 +1,8 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "Real Estate Agent / Realtor / Investor",
+        "paragraph": "Silicon Valley’s Most Referred Real Estate Agent Serving Cupertino, San Jose, Santa Clara & surrounding areas"
 
     },
     "About": {
@@ -105,12 +105,15 @@
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
+        "address": "5580 Almaden Expressway, San Jose, CA 95118 ",
+        "phone": "+1 408-889-9424",
+        "email": "pxu@intero.com",
+        "dreNumber": "02144831",
         "facebook": "fb.com",
         "twitter": "twitter.com",
-        "youtube": "youtube.com"
+        "youtube": "youtube.com",
+        "instagram": "instagram.com/pennyxurealty",
+        "intero": "https://intero.com/directory/agents/penny-xu"
     },
     "Features": [{
             "icon": "fa fa-comments-o",
