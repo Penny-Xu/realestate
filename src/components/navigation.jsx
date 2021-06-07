@@ -15,9 +15,9 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
-          {/* <a className='navbar-brand page-scroll' href='#page-top'>
+          <a className='navbar-brand page-scroll' href='#page-top'>
             Penny Xu 
-          </a>{' '} */}
+          </a>{' '}
         </div>
 
         <div
@@ -67,7 +67,7 @@ export const Navigation = (props) => {
               <span>
                   <i className='fa fa-phone'></i> 
                 </span>{' '}
-                122.121.111
+                408.889.9424
               </a>
               </div>
             </li>
