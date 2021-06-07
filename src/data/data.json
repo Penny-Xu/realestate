@@ -2,22 +2,23 @@
     "Header": {
 
         "title": "Real Estate Agent / Realtor / Investor",
-        "paragraph": "Silicon Valley’s Most Referred Real Estate Agent Serving Cupertino, San Jose, Santa Clara & surrounding areas"
+        "paragraph": "Silicon Valley’s Real Estate Agent Serving San Jose, Cupertino, Santa Clara & surrounding areas"
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph1": "Competitive chess player & motorcycle rider - she brings her data analytics skills and bold personality to Real Estate.",
+        "paragraph2": "Penny is passionate & committed to help people to minimize risks and maximize results, advising the best strategies to becoming financially independent using Real Estate as a mean. Looking to buying, selling or investing in real estate in Silicon Valley? Penny has helped many buyers/sellers/investors in negotiation, marketing, time management, contract writings, and has a proven track record of providing excellent and life-changing services. She is committed to excellency and integrity, and has your best interest at heart, guilding you to achieve your goals. Contact Penny for a free 30 mins consultation - it's free!",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Buyer's Agent",
+            "Luxury",
+            "New Construction",
+            "Relocation"
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "Listing Agent",
+            "Staging",
+            "Property Managment",
+            "Consulting"
         ]
     },
     "Services": [{
@@ -117,23 +118,23 @@
     },
     "Features": [{
             "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Languages",
+            "text": "English, Chinese, C++"
         },
         {
             "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Tech Focused",
+            "text": "Driven by technology and a love for helping others"
         },
         {
             "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Intero Brokerage",
+            "text": "Fully backed by Intero's resources and team of experts"
         },
         {
             "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Magic",
+            "text": "Sit back and let us do the negotiations on your dream home"
         }
     ]
 }
