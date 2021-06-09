@@ -16,7 +16,7 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-            Penny Xu 
+            Penny Xu
           </a>{' '}
         </div>
 
@@ -47,16 +47,6 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
-              <a href='#testimonials' className='page-scroll'>
-                Testimonials
-              </a>
-            </li>
-            <li>
-              <a href='#team' className='page-scroll'>
-                Team
-              </a>
-            </li>
-            <li>
               <a href='#contact' className='page-scroll'>
                 Contact
               </a>
@@ -65,7 +55,7 @@ export const Navigation = (props) => {
               <div style={{marginTop:16}}>
               <a style={{border: '2px solid black', padding: "11.4px 12px"}}>
               <span>
-                  <i className='fa fa-phone'></i> 
+                  <i className='fa fa-phone'></i>
                 </span>{' '}
                 408.889.9424
               </a>

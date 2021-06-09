@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import emailjs from 'emailjs-com'
+import { PopupWidget } from "react-calendly"
 
 const initialState = {
   name: '',
@@ -129,23 +130,29 @@ export const Contact = (props) => {
                 {props.data ? props.data.dreNumber : 'loading'}
               </p>
             </div>
+            <PopupWidget
+             color="#333333"
+             text="Get started!"
+             textColor="#ffffff"
+             url="https://calendly.com/pennyxu"
+           />
           </div>
           <div className='col-md-12'>
             <div className='row'>
               <div className='social'>
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.facebook : '/'}>
+                    <a href="//instagram.com/pennyxuhomes">
                       <i className='fa fa-facebook'></i>
                     </a>
                   </li>
                   <li>
-                    <a href={"instagram.com/pennyxurealty"}>
+                    <a href="//instagram.com/pennyxuhomes">
                       <i className='fa fa-instagram'></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.youtube : '/'}>
+                    <a href="//instagram.com/pennyxuhomes">
                       <i className='fa fa-youtube'></i>
                     </a>
                   </li>

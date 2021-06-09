@@ -7,7 +7,7 @@
     },
     "About": {
         "paragraph1": "Competitive chess player & motorcycle rider - she brings her data analytics skills and bold personality to Real Estate.",
-        "paragraph2": "Penny is passionate & committed to help people to minimize risks and maximize results, advising the best strategies to becoming financially independent using Real Estate as a mean. Looking to buying, selling or investing in real estate in Silicon Valley? Penny has helped many buyers/sellers/investors in negotiation, marketing, time management, contract writings, and has a proven track record of providing excellent and life-changing services. She is committed to excellency and integrity, and has your best interest at heart, guilding you to achieve your goals. Contact Penny for a free 30 mins consultation - it's free!",
+        "paragraph2": "Penny started off her career working in Silicon Valley as a software engineer. During her time at Apple, Samsung, and other tech companies, she was exposed to investing through Real Estate and the Bay Area market. Penny is passionate & committed to help people in minimizing risks and maximizing results. She is committed to excellency and integrity, with your best interest at heart. Schedule a 15 mins consultation by clicking the button on the bottom right corner - it's free!",
         "Why": [
             "Buyer's Agent",
             "Luxury",
@@ -16,40 +16,40 @@
         ],
         "Why2": [
             "Listing Agent",
-            "Staging",
+            "Staging (out sourced)",
             "Property Managment",
             "Consulting"
         ]
     },
     "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-file",
+            "name": "Prepare Finances",
+            "text": "Stress free pre-approval and lending."
         },
         {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-search",
+            "name": "Find property",
+            "text": "Catered search from MLS database and off-market opportunities."
         },
         {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-edit",
+            "name": "Make offer",
+            "text": "From initial negotiatation to closing, we will be by your side lksdfmalksmfklasmfkasldm."
         },
         {
             "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Market Analysis",
+            "text": "With market insight to price your property right the first time."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "name": "Promotion",
+            "text": "We will recommend fixes and upgrades when selling, from staging to photography."
+        },
+        {
+            "icon": "fa fa-dollar",
+            "name": "Get it sold",
+            "text": "From executing a contract to closing the deal, we will be here to represent your best interest."
         }
 
 
@@ -68,41 +68,6 @@
             "img": "img/testimonials/03.jpg",
             "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
             "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        }
-    ],
-    "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
-        },
-        {
-            "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
-        }, {
-            "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
-        },
-        {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
         }
     ],
     "Contact": {
@@ -122,14 +87,14 @@
             "text": "English, Chinese, C++"
         },
         {
-            "icon": "fa fa-bullhorn",
+            "icon": "fa fa-laptop",
             "title": "Tech Focused",
-            "text": "Driven by technology and a love for helping others"
+            "text": "A tech driven process to guarantee smooth transaction"
         },
         {
             "icon": "fa fa-group",
             "title": "Intero Brokerage",
-            "text": "Fully backed by Intero's resources and team of experts"
+            "text": "Fully backed by Intero's resources and team of experts."
         },
         {
             "icon": "fa fa-magic",
