@@ -142,8 +142,8 @@ export const Contact = (props) => {
               <div className='social'>
                 <ul>
                   <li>
-                    <a href="//instagram.com/pennyxuhomes">
-                      <i className='fa fa-facebook'></i>
+                    <a href="//pennyxu.agent.intero.com/">
+                      <i className='fa fa-home'></i>
                     </a>
                   </li>
                   <li>
@@ -152,8 +152,8 @@ export const Contact = (props) => {
                     </a>
                   </li>
                   <li>
-                    <a href="//instagram.com/pennyxuhomes">
-                      <i className='fa fa-youtube'></i>
+                    <a href="weixin://dl/chat?lazy_koala_bear">
+                      <i className='fa fa-wechat'></i>
                     </a>
                   </li>
                 </ul>

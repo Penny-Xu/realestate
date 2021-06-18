@@ -1,13 +1,13 @@
 {
     "Header": {
 
-        "title": "Real Estate Agent / Realtor / Investor",
-        "paragraph": "Silicon Valley’s Real Estate Agent Serving San Jose, Cupertino, Santa Clara & surrounding areas"
+        "title": "Real Estate Agent, Realtor, Investor",
+        "paragraph": "Silicon Valley’s Real Estate Agent Serving San Jose, Santa Clara, Cupertino & surrounding areas"
 
     },
     "About": {
-        "paragraph1": "Competitive chess player & motorcycle rider - she brings her data analytics skills and bold personality to Real Estate.",
-        "paragraph2": "Penny started off her career working in Silicon Valley as a software engineer. During her time at Apple, Samsung, and other tech companies, she was exposed to investing through Real Estate and the Bay Area market. Penny is passionate & committed to help people in minimizing risks and maximizing results. She is committed to excellency and integrity, with your best interest at heart. Schedule a 15 mins consultation by clicking the button on the bottom right corner - it's free!",
+        "paragraph1": "Competitive chess player & motorcycle rider - she brings her problem solving skills and bold personality to Real Estate.",
+        "paragraph2": "Penny started off her career working in Silicon Valley as a software engineer. During her time at Apple, Samsung, and other tech companies, she was exposed to investing through Real Estate and the Bay Area market. Penny is passionate & committed to help people in minimizing risks and maximizing results using the latest technology! Schedule a 15 mins consultation by clicking the Get started button on the bottom right corner - it's free!",
         "Why": [
             "Buyer's Agent",
             "Luxury",
@@ -16,9 +16,9 @@
         ],
         "Why2": [
             "Listing Agent",
-            "Staging (out sourced)",
+            "Consulting",
             "Property Managment",
-            "Consulting"
+            "Staging (Intero partners)"
         ]
     },
     "Services": [{

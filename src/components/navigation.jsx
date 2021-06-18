@@ -43,12 +43,17 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href='#portfolio' className='page-scroll'>
-                Gallery
+                Home Search
               </a>
             </li>
             <li>
               <a href='#contact' className='page-scroll'>
                 Contact
+              </a>
+            </li>
+            <li>
+              <a href="//wiki.pennyxuhomes.com">
+                Wiki
               </a>
             </li>
             <li style={{marginBottom:0}}>

@@ -3,7 +3,7 @@ export const Gallery = (props) => {
     <div id='portfolio' className='text-center'>
       <div className='container'>
         <div className='section-title'>
-          <h2>Gallery</h2>
+          <h2>Home Search</h2>
           <p>
             Start a home search of Bay Area neighborhoods!
           </p>
@@ -15,7 +15,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href="//pennyxu.realscout.com/homesearch/map"
+                    href="//pennyxu.agent.intero.com"
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -36,7 +36,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href="//pennyxu.realscout.com/homesearch/map"
+                    href="//pennyxu.agent.intero.com"
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -57,7 +57,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href="//pennyxu.realscout.com/homesearch/map"
+                    href="//pennyxu.agent.intero.com"
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -78,7 +78,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href="//pennyxu.realscout.com/homesearch/map"
+                    href="//pennyxu.agent.intero.com"
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -99,7 +99,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href="//pennyxu.realscout.com/homesearch/map"
+                    href="//pennyxu.agent.intero.com"
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -120,7 +120,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href="//pennyxu.realscout.com/homesearch/map"
+                    href="//pennyxu.agent.intero.com"
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -141,7 +141,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href="//pennyxu.realscout.com/homesearch/map"
+                    href="//pennyxu.agent.intero.com"
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -162,7 +162,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href="//pennyxu.realscout.com/homesearch/map"
+                    href="//pennyxu.agent.intero.com"
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -183,7 +183,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href="//pennyxu.realscout.com/homesearch/map"
+                    href="//pennyxu.agent.intero.com"
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
