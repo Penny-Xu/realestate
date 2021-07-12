@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import emailjs from 'emailjs-com'
 import { PopupWidget } from "react-calendly"
 
@@ -14,25 +14,27 @@ export const Contact = (props) => {
     const { name, value } = e.target
     setState((prevState) => ({ ...prevState, [name]: value }))
   }
-  const clearState = () => setState({ ...initialState })
+  const clearState = () => setState({ initialState })
 
   const handleSubmit = (e) => {
     e.preventDefault()
     console.log(name, email, message)
     emailjs
       .sendForm(
-        'YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', e.target, 'YOUR_USER_ID'
+        'service_realestate', 'template_ubzqh2i', e.target, 'user_xETvqDpnmalyEfypJfNow'
       )
       .then(
         (result) => {
-          console.log(result.text)
           clearState()
+          window.alert("We have received your message! Will get back to you shortly! :)")
         },
         (error) => {
           console.log(error.text)
         }
-      )
+    )
+
   }
+  
   return (
     <div>
       <div id='contact'>
