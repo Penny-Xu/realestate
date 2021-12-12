@@ -2,7 +2,7 @@
     "Header": {
 
         "title": "Real Estate Agent, Realtor, Investor",
-        "paragraph": "Silicon Valley’s Real Estate Agent Serving San Jose, Santa Clara, Cupertino & surrounding areas"
+        "paragraph": "Silicon Valley’s Real Estate Agent Serving South Bay & surrounding areas"
 
     },
     "About": {
@@ -18,7 +18,7 @@
             "Listing Agent",
             "Consulting",
             "Property Managment",
-            "Staging (Intero partners)"
+            "Staging (Our partners)"
         ]
     },
     "Services": [{
@@ -71,15 +71,14 @@
         }
     ],
     "Contact": {
-        "address": "5580 Almaden Expressway, San Jose, CA 95118 ",
+        "address": "1160 Battery St. East Suite #100, San Fransisco, CA 94111 ",
         "phone": "+1 408-889-9424",
-        "email": "pxu@intero.com",
+        "email": "pennyxuhomes@gmail.com",
         "dreNumber": "02144831",
         "facebook": "fb.com",
         "twitter": "twitter.com",
         "youtube": "youtube.com",
-        "instagram": "instagram.com/pennyxurealty",
-        "intero": "https://intero.com/directory/agents/penny-xu"
+        "instagram": "instagram.com/pennyxuhomes"
     },
     "Features": [{
             "icon": "fa fa-comments-o",
@@ -93,8 +92,8 @@
         },
         {
             "icon": "fa fa-group",
-            "title": "Intero Brokerage",
-            "text": "Fully backed by Intero's resources and team of experts"
+            "title": "Brokerage",
+            "text": "Fully backed by Radius Agent's (Real Estate Tech Startup) resources and team of experts"
         },
         {
             "icon": "fa fa-magic",

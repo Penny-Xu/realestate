@@ -34,7 +34,7 @@ export const Contact = (props) => {
     )
 
   }
-  
+
   return (
     <div>
       <div id='contact'>
@@ -144,7 +144,7 @@ export const Contact = (props) => {
               <div className='social'>
                 <ul>
                   <li>
-                    <a href="//pennyxu.agent.intero.com/">
+                    <a href="//www.facebook.com/PennyXuHomes/">
                       <i className='fa fa-home'></i>
                     </a>
                   </li>
