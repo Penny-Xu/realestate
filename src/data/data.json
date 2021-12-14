@@ -2,7 +2,7 @@
     "Header": {
 
         "title": "Real Estate Agent, Realtor, Investor",
-        "paragraph": "Silicon Valley’s Real Estate Agent Serving South Bay & surrounding areas"
+        "paragraph": "Silicon Valley’s Real Estate Agent Serving South Bay & surrounding areas."
 
     },
     "About": {
@@ -73,7 +73,7 @@
     "Contact": {
         "address": "1160 Battery St. East Suite #100, San Fransisco, CA 94111 ",
         "phone": "+1 408-889-9424",
-        "email": "pennyxuhomes@gmail.com",
+        "email": "Penny.Xu@radiusagent.com",
         "dreNumber": "02144831",
         "facebook": "fb.com",
         "twitter": "twitter.com",
@@ -93,7 +93,7 @@
         {
             "icon": "fa fa-group",
             "title": "Brokerage",
-            "text": "Fully backed by Radius Agent's (Real Estate Tech Startup) resources and team of experts"
+            "text": "Fully backed by Radius Agent's (RE Tech Startup) resources"
         },
         {
             "icon": "fa fa-magic",
